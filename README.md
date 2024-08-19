@@ -63,5 +63,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/luisleyva0524)
-- Twitter [@your-twitter](https://twitter.com/Antoniolvdev)
+- GitHub [@luisleyva0524](https://github.com/luisleyva0524)
+- Twitter [@Antoniolvdev](https://twitter.com/Antoniolvdev)
